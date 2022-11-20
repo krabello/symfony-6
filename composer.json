@@ -4,7 +4,7 @@
     "minimum-stability": "RC",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.0",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "knplabs/knp-time-bundle": "^1.20",
